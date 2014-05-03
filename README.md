@@ -1,5 +1,5 @@
-Monteur d'inférence en CLISP
-================
+Moteur d'inférence d'ordre 0 et 0+
+==
 
 Ce projet intervient dans le cadre de la réalisation d'un moteur d'inférence en LISP afin de comprendre et implémenter les fondement du raisonnnement déductif dans les Systèmes de Base de Connaissances (SBC).
 
