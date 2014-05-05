@@ -1,6 +1,8 @@
 Moteur d'inférence d'ordre 0 et 0+
 ==
 
+Auteurs : [jococo972](https://github.com/jococo972) [nissnac](https://github.com/nissnac) [AlexMili](https://github.com/AlexMili)
+
 Ce projet intervient dans le cadre de la réalisation d'un moteur d'inférence en LISP afin de comprendre et implémenter les fondement du raisonnnement déductif dans les Systèmes de Base de Connaissances (SBC).
 
 Ce projet met en avant le fonctionnement des chaînages avant et arrière d'ordre 0 et 0+. Le processus d'inférence est effectué à partir de différentes bases de connaissances disponibles dans le fichier base.lisp.
