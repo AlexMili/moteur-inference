@@ -1,7 +1,7 @@
 Moteur d'inférence d'ordre 0 et 0+
 ==
 
-Auteurs : [jococo972](https://github.com/jococo972) [nissnac](https://github.com/nissnac) [AlexMili](https://github.com/AlexMili)
+Auteurs : [nissnac](https://github.com/nissnac) [AlexMili](https://github.com/AlexMili)
 
 Ce projet intervient dans le cadre de la réalisation d'un moteur d'inférence en LISP afin de comprendre et implémenter les fondement du raisonnnement déductif dans les Systèmes de Base de Connaissances (SBC).
 
