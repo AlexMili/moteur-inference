@@ -20,8 +20,11 @@ Le moteur d'odre 0+ comprend les fonctionnalités suivantes :
 - heuristique avec le plus de prémisse valide
 - heuristique de la première règle valide
 
-Le projet a été réalisé avec CLISP v2.49.
+Le projet a été réalisé avec **CLISP v2.49**.
 
-Utilisation : clisp main.lisp
+Utilisation :
+```
+clisp main.lisp
+```
 
 La documentation du projet est disponible au format PDF.
